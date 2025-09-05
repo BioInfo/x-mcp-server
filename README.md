@@ -124,7 +124,7 @@ The server also supports legacy `TWITTER_*` prefixed environment variables:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/x-mcp-server.git
+git clone https://github.com/BioInfo/x-mcp-server.git
 cd x-mcp-server
 ```
 
